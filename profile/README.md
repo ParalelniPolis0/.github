@@ -1,4 +1,4 @@
-* [paralelnipolis.info](https://paralelnipolis.info)
+* [parallelpolis.info](https://parallelpolis.info)
 * [forum.paralelnipolis.info](https://forum.paralelnipolis.info)
 * [archive.pp0.co](https://archive.pp0.co) - Videos, books etc.
 * [git.pp0.co](https://git.pp0.co) - Git mirror (Forgejo)
